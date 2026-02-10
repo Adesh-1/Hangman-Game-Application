@@ -72,4 +72,4 @@ Game logic design
 Clean and readable code structure
 
 # 🚀 How to Run
-python game.py
+python hangman.py
